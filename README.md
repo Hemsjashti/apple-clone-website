@@ -112,25 +112,6 @@ APPLE WEBSITE CLONE V2/
 * **CSS3**
 * **JavaScript (Vanilla JS)**
 * **Responsive Web Design**
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-### Homepage
-
-```markdown
-![Homepage](screenshots/homepage.png)
-```
-
-### Product Page
-
-```markdown
-![Product Page](screenshots/product-page.png)
-```
-
 ---
 
 ## ⚙️ Installation and Setup
