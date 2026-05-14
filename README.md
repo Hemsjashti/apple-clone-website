@@ -8,18 +8,15 @@ A fully responsive front-end clone of the official Apple website, built using **
 
 Add your deployed link here after publishing the project:
 
-[Netifly Hosted link](https://admirable-froyo-00de55.netlify.app/)
+[https://admirable-froyo-00de55.netlify.app/](https://regal-peony-b23028.netlify.app/)
 
 ---
 
 ## 📂 GitHub Repository
 
-Add your GitHub repository link here:
-
 ```text
 https://github.com/Hemsjashti/apple-clone-website
 ```
-
 ---
 
 ## 📌 Project Overview
@@ -189,7 +186,7 @@ Contributions are welcome.
 
 ## 📄 License
 
-This project is created for **educational and portfolio purposes only**.
+This project is created for **educational purposes only**.
 
 All product names, logos, and images are trademarks of entity["company","Apple Inc.","Consumer electronics company"].
 
@@ -200,10 +197,8 @@ This project is **not affiliated with or endorsed by Apple Inc.**
 ## 👨‍💻 Author
 
 **Hemendra Jashti**
-
 * GitHub: [https://github.com/Hemsjashti](https://github.com/Hemsjashti)
 * LinkedIn: [JASHTI HEMENDRA](https://www.linkedin.com/in/hemendra-jashti-1b1b75392/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BP1b%2F99cXR9aEqxwi7H0Mkg%3D%3D)
-
 ---
 
 ## ⭐ Support
