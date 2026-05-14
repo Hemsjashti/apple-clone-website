@@ -8,9 +8,7 @@ A fully responsive front-end clone of the official Apple website, built using **
 
 Add your deployed link here after publishing the project:
 
-```text
-Netifly Hosted link(https://admirable-froyo-00de55.netlify.app/)
-```
+[Netifly Hosted link](https://admirable-froyo-00de55.netlify.app/)
 
 ---
 
