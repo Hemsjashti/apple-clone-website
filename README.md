@@ -10,6 +10,12 @@ Add your deployed link here after publishing the project:
 
 [https://admirable-froyo-00de55.netlify.app/](https://regal-peony-b23028.netlify.app/)
 
+If Your Chrome is Latest then 
+1. It will show Dangerous
+2. click on details
+3. Then click on unsafe site
+4. now u can see the live demo
+
 ---
 
 ## 📂 GitHub Repository
