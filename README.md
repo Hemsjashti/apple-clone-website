@@ -188,6 +188,26 @@ This project is **not affiliated with or endorsed by Apple Inc.**
 * LinkedIn: [JASHTI HEMENDRA](https://www.linkedin.com/in/hemendra-jashti-1b1b75392/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BP1b%2F99cXR9aEqxwi7H0Mkg%3D%3D)
 ---
 
+## 🏫 USER INTERFACE DESIGN (23CSE113)
+# Assignment Details
+
+# Submitted to
+
+| Field | Details |
+|--------|---------|
+| Name | Dr. Raj Kumar Batchu |
+| Department | CSE |
+| Designation | Assistant Professor |
+| Subject | User Interface Design |
+
+# Submitted by
+
+| Field | Details |
+|--------|---------|
+| Name | JASHTI HEMENDRA |
+| Roll No | AV.SC.U4CSE25116 |
+| Year/Sem/Section | 1st Year / Sem-2 / CSE |
+
 ## ⭐ Support
 
 If you found this project useful:
